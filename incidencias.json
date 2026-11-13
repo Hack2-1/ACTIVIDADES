@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "tipo": "incidente",
+    "descripcion": "Escaneo de puertos confirmado y mitigado",
+    "estado": "abierta",
+    "hora": "2026-11-13 13:06:21"
+  },
+  {
+    "id": 2,
+    "tipo": "vulnerabilidad",
+    "descripcion": "SSH con contrasena debil",
+    "estado": "abierta",
+    "hora": "2026-11-13 13:06:21"
+  }
+]
